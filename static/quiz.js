@@ -8195,16 +8195,44 @@ function initializeQuiz() {
 
     // 2. LocalStorage'dan yükleme veya sıfırlama
     const savedState = localStorage.getItem('quizState');
+
     if (savedState) {
-        quizState = JSON.parse(savedState);
-        // Map'i yeniden oluştur (Local Storage sadece veriyi kaydeder, fonksiyonları değil)
+        let loadedState;
+        try {
+            loadedState = JSON.parse(savedState);
+        } catch (e) {
+            // Eğer kayıt bozuksa (bir ihtimal), sil ve sıfırla.
+            localStorage.removeItem('quizState');
+            startNewRound(quizState.allWords);
+            return;
+        }
+        
+        // KONTROL: Kayıtlı kelime sayısı, mevcut ALL_WORDS_DATA listesinin 
+        // kelime sayısıyla EŞİT DEĞİLSE, kaydı geçersiz say ve sıfırla.
+        // Bu, 5 kelimeden 1000 kelimeye geçerkenki çakışmayı önler.
+        if (!loadedState.quizWords || loadedState.quizWords.length !== quizState.allWords.length) {
+            console.warn("Eski quiz verisi, yeni kelime listesiyle uyuşmuyor veya bozuk. Sıfırlanıyor.");
+            localStorage.removeItem('quizState');
+            startNewRound(quizState.allWords);
+            return;
+        }
+        
+        // Veri tutarlıysa, kaldığımız yerden devam et
+        quizState = loadedState;
+        
+        // wordMap'i yeniden oluştur (Local Storage sadece veriyi kaydeder)
         quizState.wordMap = quizState.allWords.reduce((map, word) => {
             map[word.id] = word;
             return map;
         }, {});
+        
     } else {
+        // Kayıt yoksa, yeni bir tur başlat
         startNewRound(quizState.allWords);
     }
+    
+    // Uygulama başladıktan sonra ilk soruyu render et
+    renderQuestion();
 }
 
 function saveState() {
@@ -8372,5 +8400,6 @@ window.nextQuestion = nextQuestion;
 // Uygulama yüklendiğinde başlat
 
 document.addEventListener('DOMContentLoaded', initializeQuiz);
+
 
 
