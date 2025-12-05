@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İngilizce Kelime Quiz</title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+    <div class="container" id="quiz-container">
+        
+        <div class="round-info" id="round-display">TUR 1</div>
+        <div class="progress" id="progress-display">Soru 1 / 1000</div>
+        
+        <h2>Bu kelimenin Türkçe karşılığı nedir?</h2>
+        <div class="word" id="word-display">WORD HERE</div>
+        
+        <div id="feedback-placeholder"></div>
+
+        <div class="choice-form" id="choices-container">
+            </div>
+    </div>
+    
+    <div id="next-button-container">
+        <button type="button" class="next-button" onclick="nextQuestion()">
+            Devam Et
+        </button>
+    </div>
+
+    <script src="static/quiz.js"></script>
+
+</body>
+</html>

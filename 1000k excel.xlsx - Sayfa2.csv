@@ -1,0 +1,1001 @@
+﻿Sıra No;İngilizce;Türkçe
+1;I;ben
+2;you;sen
+3;he;o (erkek)
+4;she;o (kadın)
+5;it;o (cansız/hayvan)
+6;we;biz
+7;they;onlar
+8;my;benim
+9;your;senin
+10;his;onun (erkek)
+11;her;onun (kadın)
+12;their;onların
+13;our;bizim
+14;this;bu
+15;that;şu
+16;these;bunlar
+17;those;şunlar
+18;mother;anne
+19;father;baba
+20;sister;kız kardeş
+21;brother;erkek kardeş
+22;uncle;amca, dayı
+23;aunt;teyze, hala
+24;cousin;kuzen
+25;grandfather;büyükbaba
+26;grandmother;büyükanne
+27;baby;bebek
+28;child;çocuk, evlat
+29;children;çocuklar
+30;kid;çocuk, ufaklık
+31;son;oğul
+32;friend;arkadaş
+33;boy;erkek çocuk
+34;girl;kız çocuk
+35;man;erkek
+36;woman;kadın
+37;men;erkekler
+38;women;kadınlar
+39;girlfriend;kız arkadaş
+40;boyfriend;erkek arkadaş
+41;lover, beloved;sevgili, aşık
+42;classmate;sınıf arkadaşı
+43;bestfriend;en iyi arkadaş
+44;married;evli
+45;engaged;nişanlı
+46;single;bekar
+47;wife;kadın eş (karı)
+48;husband;erkek eş (koca)
+49;book;kitap
+50;notebook;not defteri
+51;pencil;kalem
+52;eraser;silgi
+53;paper;kağıt
+54;school;okul
+55;classroom;sınıf
+56;student;öğrenci
+57;teacher;öğretmen
+58;desk;masa (sıra)
+59;table;masa
+60;lesson;ders
+61;break;teneffüs
+62;blackboard;tahta
+63;homework;ödev
+64;exam;sınav
+65;note;not
+66;university;üniversite
+67;high school;lise
+68;primary school;ilkokul
+69;kindergarden;anaokulu
+70;house;ev
+71;home;ev (yuva)
+72;room;oda
+73;bedroom;yatak odası
+74;kitchen;mutfak
+75;bathroom;banyo
+76;door;kapı
+77;toilet;tuvalet
+78;floor;zemin
+79;window;pencere
+80;cabinet;dolap
+81;elevator;asansör
+82;wardrobe;gardırop
+83;key;anahtar
+84;carpet;halı
+85;chair;koltuk, sandalye
+86;go;gitmek
+87;come;gelmek
+88;swim;yüzmek
+89;play;oynamak
+90;dance;dans etmek
+91;sit (sit down);oturmak
+92;speak;konuşmak
+93;talk;konuşmak
+94;say;söylemek
+95;study;ders çalışmak
+96;work;çalışmak
+97;help;yardım etmek
+98;stop;durmak
+99;start;başlamak
+100;begin;başlamak
+101;finish;bitirmek
+102;show;göstermek
+103;change;değiştirmek, değişiklik
+104;invite;davet etmek, çağırmak
+105;do;yapmak
+106;make;yapmak
+107;look;bakmak
+108;cry;ağlamak
+109;fly;uçmak
+110;see;görmek
+111;call;çağırmak, telefon etmek
+112;win;kazanmak
+113;give;vermek
+114;take;almak
+115;get;almak, edinmek
+116;buy;satın almak
+117;sell;satmak
+118;send;göndermek
+119;garden;bahçe
+120;flower;çiçek
+121;tree;ağaç
+122;forest;orman
+123;roof;çatı
+124;soap;sabun
+125;towel;havlu
+126;car;araba
+127;bus;otobüs
+128;bus stop;otobüs durağı
+129;accident;kaza
+130;bicycle;bisiklet
+131;bike;bisiklet
+132;motorbike;motosiklet
+133;airplane;uçak
+134;doctor;doktor
+135;nurse;hemşire
+136;dentist;dişçi
+137;engineer;mühendis
+138;lawyer;avukat
+139;soldier;asker
+140;policeman;polis
+141;waiter;garson
+142;cook (fryer);aşçı
+143;staff;görevli
+144;security staff;güvenlik görevlisi
+145;manager (director);müdür
+146;assistant;yardımcı
+147;executive assistant;müdür yardımcısı
+148;officer;subay, memur
+149;civil;sivil
+150;civil servant;memur, devlet memuru
+151;athlete;sporcu, atlet
+152;idea;fikir, düşünce
+153;guess;tahmin
+154;guest;konuk, misafir
+155;love;aşk
+156;fall in love;aşık olmak
+157;desire;arzu etmek
+158;like;hoşlanmak
+159;enjoy;keyif almak
+160;want;istemek
+161;grow;büyümek
+162;eat;yemek
+163;read;okumak
+164;write;yazmak
+165;answer;cevap, cevap vermek
+166;question;soru, soru sormak
+167;ask;sormak
+168;stay;kalmak
+169;teach;öğretmek
+170;learn;öğrenmek
+171;walk;yürümek
+172;run;koşmak
+173;feel;hissetmek
+174;feel bad;kötü hissetmek
+175;make a plan;plan yapmak
+176;watch;izlemek
+177;wait;beklemek
+178;visit;ziyaret etmek
+179;listen;dinlemek
+180;know;bilmek
+181;open;açmak
+182;shut;kapamak
+183;shout;bağırmak
+184;yell;bağırma, seslenme
+185;use;kullanmak
+186;understand;anlamak
+187;smile;gülümsemek
+188;miss;özlemek
+189;forget;unutmak
+190;remember;hatırlamak
+191;think;düşünmek
+192;take a photo;fotoğraf çekmek
+193;animal;hayvan
+194;pet;evcil hayvan
+195;dog;köpek
+196;cat;kedi
+197;fish;balık
+198;bird;kuş
+199;camel;deve
+200;elephant;fil
+201;mouse;fare
+202;horse;at
+203;donkey;eşek
+204;chicken;tavuk
+205;snake;yılan
+206;rabbit;tavşan
+207;pig;domuz
+208;fly;sinek
+209;lion;aslan
+210;fox;tilki
+211;spider;örümcek
+212;bee;arı
+213;bear;ayı
+214;chick;civciv
+215;ox;öküz
+216;cow;inek
+217;bull;boğa
+218;sheep;koyun
+219;rooster;horoz
+220;cockroach;hamam böceği
+221;face;yüz
+222;head;kafa
+223;nose;burun
+224;lip;dudak
+225;eye;göz
+226;ear;kulak
+227;teeth;diş
+228;foot;ayak
+229;arm;kol
+230;hand;el
+231;finger;parmak
+232;skin;deri
+233;glasses;gözlük
+234;dress;elbise
+235;jacket;ceket
+236;sweater;kazak
+237;shorts;şort
+238;pants;pantolon
+239;shoe;ayakkabı
+240;blouse;bluz
+241;shirt;gömlek
+242;tshirt;tişört
+243;slipper;terlik
+244;hat;şapka
+245;worker;işçi
+246;food;yiyecek
+247;water;su
+248;milk;süt
+249;tea;çay
+250;coffee;kahve
+251;butter;tereyağ
+252;fruit;meyve
+253;juice;meyve suyu
+254;buttermilk;ayran
+255;drink;içki
+256;beer;bira
+257;wine;şarap
+258;bread;ekmek
+259;vegetables;sebze
+260;soup;çorba
+261;meat;et
+262;veal;dana eti
+263;pork;domuz eti
+264;meatball;köfte
+265;chop;pirzola
+266;potato;patates
+267;grill;ızgara
+268;kebab;kebap
+269;oil;yağ
+270;olive;zeytin
+271;olive oil;zeytin yağı
+272;sunflower;ayçiçek
+273;sunflower oil;ayçiçek yağı
+274;salt;tuz
+275;salad;salata
+276;pepper;biber
+277;black pepper;karabiber
+278;chili;kırmızı biber
+279;thyme;kekik
+280;garlic;sarımsak
+281;dessert;tatlı
+282;delight;lokum
+283;baklava;baklava
+284;cake;pasta
+285;pastry;poğaça, hamur işi
+286;onion;soğan
+287;cookie;kurabiye
+288;hazelnut;fındık
+289;peanut;fıstık
+290;walnut;ceviz
+291;delicious;lezzetli
+292;watermelon;karpuz
+293;melon;kavun
+294;apple;elma
+295;orange;portakal
+296;mandarin;mandalina
+297;banana;muz
+298;cherry;kiraz, vişne
+299;grape;üzüm
+300;apricot;kayısı
+301;peach;şeftali
+302;fig;incir
+303;carrot;havuç
+304;kiwi;kivi
+305;dinner;akşam yemeği
+306;lunch;öğle yemeği
+307;breakfast;kahvaltı
+308;cheese;peynir
+309;honey;bal
+310;jam;reçel
+311;egg;yumurta
+312;glass;bardak
+313;cup;fincan
+314;knife;bıçak
+315;fork;çatal
+316;spoon;kaşık
+317;plate;tabak
+318;bottle;şişe
+319;taste;tat, lezzet
+320;hunger;açlık
+321;hungry;acıkmış, karnı aç
+322;name;isim
+323;surname;soyadı
+324;identity;kimlik, kişilik
+325;identity card;kimlik kartı
+326;passport;pasaport
+327;driver licence;ehliyet
+328;address;adres
+329;number;numara
+330;phone number;telefon numarası
+331;signature;imza
+332;country;ülke
+333;capital;başkent
+334;international;uluslararası
+335;nation;millet
+336;homeland;anavatan
+337;city;şehir
+338;district;ilçe
+339;state;eyalet
+340;downtown;şehir merkezi
+341;building;bina
+342;build, construction;inşaat
+343;bridge;köprü
+344;street;sokak, cadde
+345;village;köy
+346;port;liman
+347;beach;sahil, plaj
+348;seaside;sahil
+349;coast;kıyı, sahil
+350;sea coast;deniz kıyısı
+351;coastline;kıyı şeridi
+352;souvenir;hediyelik eşya
+353;square;meydan
+354;airport;havalimanı
+355;train station;tren istasyonu
+356;store;mağaza
+357;shopping;alışveriş yapmak
+358;shopping center;alışveriş merkezi
+359;bookstore;kitapçı
+360;enter;giriş, girmek
+361;exit;çıkış, çıkmak
+362;hospital;hastane
+363;emergency;acil durum
+364;patient;hasta
+365;tired;yorgun
+366;sick;hasta
+367;pharmacy;eczane
+368;bank;banka
+369;east;doğu
+370;west;batı
+371;north;kuzey
+372;south;güney
+373;northeast (west);kuzeydoğu (batı)
+374;southeast (west);güneydoğu (batı)
+375;right;sağ
+376;left;sol, ayrılmak
+377;mosque;cami
+378;Islam;İslam
+379;church;kilise
+380;synagogue;sinagog
+381;muslim;müslüman
+382;christian;hristiyan
+383;christmas;noel
+384;christianity;hristiyanlık
+385;jew;yahudi
+386;god;tanrı
+387;pray;dua
+388;atheist;ateist
+389;buddhist;budist
+390;Qur'an;Kur'an
+391;bible;incil
+392;superstition;batıl inanç
+393;religion;din
+394;religious;dindar
+395;torah;tevrat
+396;priest;papaz
+397;imam;imam
+398;angel;melek
+399;devil;şeytan
+400;sacred;kutsal
+401;paradise;cennet
+402;inferno;cehennem
+403;infinite;sonsuzluk
+404;eden;cennet
+405;satan;şeytan
+406;satanist;satanist
+407;hell;cehennem
+408;prophet;peygamber
+409;location;lokasyon
+410;colour;renk
+411;red;kırmızı
+412;yellow;sarı
+413;blue;mavi
+414;green;yeşil
+415;brown;kahverengi
+416;black;siyah
+417;white;beyaz
+418;orange;turuncu
+419;purple;mor
+420;money;para
+421;cash;nakit
+422;currency;döviz, kur
+423;rent;kiralık
+424;sale;satılık
+425;discount;indirim
+426;fee;ücret
+427;free;ücretsiz
+428;expensive;pahalı
+429;cheap;ucuz
+430;export;ihracat
+431;import;ithalat
+432;gold;altın
+433;silver;gümüş
+434;newspaper;gazete
+435;magazine;dergi
+436;what;ne
+437;who;kim
+438;whose;kimin
+439;where;nerede
+440;how;nasıl
+441;when;ne zaman
+442;which;hangi
+443;time;zaman
+444;clock;saat
+445;minute;dakika
+446;week;hafta
+447;month;ay
+448;year;yıl
+449;morning;gündüz (sabah)
+450;night;gece
+451;midnight;gece yarısı
+452;tomorrow;yarın
+453;yesterday;dün
+454;late;geç
+455;early;erken
+456;noon;öğlen
+457;afternoon;öğleden sonra
+458;new;yeni
+459;after;sonra
+460;before;önce
+461;monday;pazartesi
+462;tuesday;salı
+463;wednesday;çarşamba
+464;thursday;perşembe
+465;friday;cuma
+466;saturday;cumartesi
+467;sunday;pazar
+468;january;ocak
+469;february;şubat
+470;march;mart
+471;april;nisan
+472;may;mayıs
+473;june;haziran
+474;july;temmuz
+475;august;ağustos
+476;september;eylül
+477;october;ekim
+478;november;kasım
+479;december;aralık
+480;past;geçmiş
+481;future;gelecek
+482;now;şimdi
+483;leave;çıkmak, ayrılmak
+484;hope;umut, ummak
+485;expect;ummak, beklemek
+486;depend;güvenmek, bağlı olmak
+487;hate;nefret, nefret etmek
+488;revenge;intikam
+489;affect;etkilemek
+490;lose;kaybetmek
+491;need;ihtiyaç duymak
+492;find;bulmak
+493;tell;söylemek
+494;put;koymak
+495;drive;sürmek
+496;hold;tutmak
+497;prefer;tercih etmek
+498;translate;tercüme etmek
+499;repeat;tekrar etmek
+500;repair;tamir etmek
+501;fill;doldurmak
+502;explain;açıklamak
+503;relax;rahatlamak
+504;refuse;reddetmek
+505;trust;güvenmek
+506;believe;inanmak
+507;decide;karar vermek
+508;die;ölmek
+509;arrive;ulaşmak
+510;seek;aramak, istemek
+511;hire;kiralamak
+512;rent;kiralamak
+513;beg;yalvarmak
+514;search;aramak, araştırmak
+515;victory;zafer
+516;first;birinci
+517;second;ikinci
+518;third;üçüncü
+519;island;ada
+520;peninsula;yarımada
+521;mountain;dağ
+522;climb;tırmanış
+523;history;tarih
+524;story;hikaye
+525;tale;masal
+526;journey;seyahat
+527;culture;kültür
+528;cultural;kültürel
+529;art;sanat
+530;fine arts;güzel sanatlar
+531;air;hava
+532;climate;iklim
+533;air conditioner;klima
+534;cloud;bulut
+535;cloudy;bulutlu
+536;rain;yağmur
+537;rainy;yağmurlu
+538;snow;kar
+539;snowy;karlı
+540;chill;soğuk
+541;chilly;serin
+542;sun;güneş
+543;sunny;güneşli
+544;sky;gökyüzü
+545;rainbow;gökkuşağı
+546;space;uzay
+547;moon;ay
+548;hot;sıcak
+549;cold;soğuk
+550;warm;ılık
+551;sea;deniz
+552;lake;göl
+553;river;ırmak
+554;pool;havuz
+555;beauty;güzellik
+556;beautiful;güzel
+557;nice;güzel
+558;lovely;hoş, güzel
+559;pretty;güzel, cici
+560;elegant;zarif
+561;good;iyi, sağlam
+562;fine;iyi, mükemmel
+563;adorable;çok güzel
+564;handsome;yakışıklı
+565;ugly;çirkin
+566;sweet;tatlı
+567;cute;şirin
+568;sympathetic;sempatik
+569;attractive;çekici
+570;cheerful;neşeli
+571;funny;komik
+572;polite;kibar
+573;kind;nazik
+574;gentle;kibar, nazik
+575;friendly;arkadaş canlısı
+576;sincere;samimi, içten
+577;emotional;duygusal
+578;understanding;anlayışlı
+579;chatty;konuşkan, geveze
+580;crazy;çılgın
+581;lunatic;çılgın, deli, delice
+582;honest;dürüst
+583;dishonest;sahtekar, şerefsiz
+584;helpful;yardımsever, faydalı
+585;creative;yaratıcı
+586;reasonable;mantıklı
+587;sensitive;hassas
+588;social;sosyal
+589;modest;mütevazi
+590;reliable;dürüst, güvenilir
+591;successful;başarılı
+592;outgoing;açık yürekli
+593;sociable;arkadaş canlısı, girişken
+594;sensible;mantıklı, makul
+595;patient;sabırlı, hoşgörülü
+596;impatient;sabırsız
+597;serious;ciddi
+598;rumor;dedikodu, söylenti
+599;gossipy;dedikoducu
+600;lazy;tembel, uyuşuk
+601;hardworking;çalışkan
+602;diligent;gayretli
+603;angry;sinirli
+604;nervous;gergin, asabi
+605;aggressive;agresif, saldırgan
+606;jealous;kıskanç
+607;selfish;bencil, kendini düşünen
+608;shy;utangaç, çekingen
+609;stubborn;inatçı, aksi
+610;rude;kaba, saygısız
+611;boring;sıkıcı
+612;stingy;cimri, pinti, paragöz
+613;generous;cömert, eli açık
+614;brave;cesur
+615;coward;korkak
+616;smart;akıllı
+617;clever;zeki
+618;intelligent;akıllı, kabiliyetli
+619;witless;akılsız, düşüncesiz
+620;silly;aptal, sersem
+621;fool;aptal, budala, aptalca
+622;idiot;salak
+623;arrogant;kibirli
+624;optimist;iyimser
+625;pessimist;kötümser, karamsar
+626;confident;kendinden emin
+627;grumpy;huysuz, somurtkan
+628;messy;dağınık, pasaklı
+629;dirty;kirli
+630;exclusive;özel, seçkin
+631;liar;yalancı
+632;cruel;zalim
+633;tolerant;hoşgörülü
+634;traitor;hain
+635;patriot;vatansever
+636;perverted;sapık
+637;immoral;ahlaksız
+638;shameless;utanmaz
+639;confused;şaşkın, karmakarışık
+640;bonafide;iyi niyetli
+641;stupid;aptal
+642;moron;moron, geri zekalı
+643;type;tip, tür, model, cins
+644;tall;uzun
+645;short;kısa
+646;medium height;orta boy
+647;fat;şişman
+648;overweight;fazla kilolu
+649;thin;zayıf
+650;skinny;çok zayıf
+651;slim;ince
+652;old;yaşlı
+653;young;genç
+654;middle age;orta yaşlı
+655;bald;kel
+656;beard;sakal
+657;mustache;bıyık
+658;hair;saç
+659;long hair;uzun saç
+660;short hair;kısa saç
+661;straight hair;düz saç
+662;curly hair;kıvırcık saç
+663;blonde;sarışın
+664;brunette;esmer
+665;blond haired;sarı saçlı
+666;black haired;siyah saçlı
+667;brown haired;kahverengi saçlı
+668;dark haired;siyah saçlı
+669;ginger haired;kızıl saçlı
+670;attention;dikkat
+671;careful;dikkatli
+672;danger;tehlike
+673;dangerous;tehlikeli
+674;gambling;kumar
+675;gambler;kumarbaz
+676;luck;şans
+677;peace;barış
+678;war;savaş
+679;army;ordu
+680;legion;lejyon, birlik, ordu
+681;weapon;silah
+682;gun;tabanca
+683;attack;atak
+684;defense;defans
+685;murder;cinayet
+686;murderer;katil
+687;hit;vurmak
+688;kill;öldürmek
+689;killer;katil
+690;suffer;acı çekmek
+691;pain;ağrı
+692;headache;baş ağrısı, migren
+693;punish;cezalandırmak
+694;death;ölüm
+695;live;canlı, yaşayan
+696;life;yaşam, hayat
+697;immortal;ölümsüz
+698;important;önemli
+699;nature;doğa
+700;natural;doğal
+701;wild;vahşi
+702;tolerance;tolerans
+703;pleasant;keyifli, hoş
+704;cozy;rahat, keyifli
+705;lie;yalan
+706;strong;güçlü
+707;weak;zayıf
+708;terrifying;dehşet verici
+709;horrible;korkunç
+710;wonderful;harika
+711;goodwill;iyi niyet
+712;unjust;haksız
+713;innocent;masum
+714;guilt;suç
+715;guiltless;suçsuz
+716;guilty;suçlu
+717;lamp;lamba
+718;light;ışık, hafif
+719;candle;mum
+720;president;devlet başkanı
+721;vice president;başkan yardımcısı
+722;prime minister;başbakan
+723;minister;bakan
+724;ministry;bakanlık
+725;king;kral
+726;dictator;diktatör
+727;steal;çalmak
+728;thief;hırsız
+729;theft;hırsızlık
+730;rich;zengin
+731;poor;fakir
+732;happy;mutlu
+733;happiness;mutluluk
+734;unhappy;mutsuz
+735;sad;üzgün, hüzünlü
+736;sorry;üzgün, pişman
+737;alone;yalnız
+738;difficult;zor, çetin
+739;easy;kolay
+740;hard;zor
+741;soft;yumuşak
+742;clear;temiz
+743;bad;kötü
+744;bully;zorba
+745;far;uzak
+746;near;yakın
+747;close;yakın
+748;up;yukarı
+749;down;aşağı
+750;rise;yükselmek
+751;fall;düşmek
+752;holiday, vacation;tatil
+753;summer;yaz
+754;winter;kış
+755;spring;ilkbahar
+756;zoo;hayvanat bahçesi
+757;heart;kalp
+758;hearty;candan
+759;hello;merhaba
+760;freedom;özgürlük
+761;person;kişi, şahıs
+762;people;insanlar, halk
+763;human;insan, beşeri
+764;ready;hazır
+765;Mr.;bay
+766;Mrs.;bayan
+767;Ms.;bayan
+768;Miss;genç kız
+769;miss;matmazel
+770;mistake;hata, yanlışlık
+771;error;yanlış, hata
+772;enemy;düşman
+773;bribe;rüşvet vermek
+774;page;sayfa
+775;news;haber
+776;journalist;gazeteci
+777;embassy;elçilik
+778;consulate;konsolosluk
+779;casual;gündelik
+780;cotton;pamuk
+781;in danger;tehlikede
+782;tops;en iyi
+783;dream;rüya
+784;villager;köylü
+785;vase;vazo
+786;song;şarkı
+787;sing a song;şarkı söylemek
+788;glass;cam
+789;mirror;ayna
+790;earth - world;dünya
+791;earthquake;deprem
+792;Europe;Avrupa
+793;European;Avrupalı
+794;America;Amerika
+795;American;Amerikalı
+796;England;İngiltere
+797;English;İngiltereli, İngilizce
+798;greek;yunan
+799;Arab;Arap
+800;Arabian;Arap halkı
+801;Asia;Asya
+802;bed;yatak
+803;bedtime;yatma zamanı
+804;breaktime;tenefüs, ara
+805;land;arazi, kara, arsa
+806;discover;keşfetmek
+807;discovery;keşif
+808;forbid;yasaklamak
+809;neck;boyun
+810;tie;kravat
+811;necklace;kolye
+812;fun;eğlence
+813;richly;fazlasıyla
+814;the rich;zenginler
+815;example;örnek
+816;large;geniş
+817;small;dar
+818;fast;çabuk
+819;fight;kavga
+820;fighter;savaşçı
+821;chief;reis, şef
+822;follow;takip etmek
+823;library;kütüphane
+824;simple;basit
+825;perfect;mükemmel
+826;toy;oyuncak
+827;loud;gürültülü
+828;loudly;yüksek ses
+829;loud speaker;hoparlör
+830;silent;sessiz
+831;quiet;sessiz
+832;be quiet;sessiz ol
+833;pine;çam
+834;waterfall;şelale
+835;bride;gelin
+836;map;harita
+837;torture;işkence
+838;vote;oy
+839;planet;gezegen
+840;luggage, trunk;bagaj
+841;incredible;inanılmaz
+842;boss;patron
+843;company;şirket
+844;produce;üretmek
+845;income;gelir
+846;spend;harcamak
+847;pay;ödemek
+848;deal;anlaşmak
+849;apply;uygulamak, başvurmak
+850;all;bütün
+851;often;sık sık
+852;usually;genellikle
+853;always;her zaman
+854;never;asla
+855;outlook;görünüş
+856;purpose;amaç
+857;aim;hedef, amaç
+858;aimless;amaçsız
+859;young;çocuk
+860;earring;küpe
+861;client;alıcı, müşteri
+862;cliff;uçurum
+863;farm;çiftlik
+864;farmer;çiftçi
+865;fashion;moda
+866;fashionable;modaya uygun
+867;fascinating;büyüleyici
+868;feasible;mümkün
+869;felonious;suçlu
+870;order;emir, sipariş
+871;first aid;ilk yardım
+872;at first;ilk önce
+873;firsthand;doğrudan
+874;resume;devam etmek
+875;research;araştırma
+876;select;seçmek
+877;file;dosya
+878;install;yerleştirme
+879;delete;silmek
+880;save;kurtarmak
+881;cancel;iptal etmek
+882;load;yüklemek
+883;correct;DOĞRU
+884;accept;kabul etmek
+885;present;sunmak
+886;gift, present;hediye
+887;high class;kaliteli
+888;highland;dağlık yer
+889;highway;anayol
+890;weakly;güçsüz
+891;weaken;zayıf
+892;weakling;cılız
+893;whatever;her neyse
+894;ever;asla
+895;every;her
+896;everybody;herkes
+897;everyone;herkes
+898;everything;her şey
+899;nothing;hiçbir şey
+900;movie;sinema
+901;ball;top
+902;playball;top oynamak
+903;Maybe;olabilir
+904;perhaps;belki
+905;mayor;belediye başkanı
+906;govern;yönetmek
+907;governor;vali
+908;government;hükümet
+909;tip;bahşiş
+910;diction;diksiyon
+911;top;üst, tepe
+912;secret;gizli
+913;grisly;korkunç
+914;gym;spor salonu
+915;gymnasium;beden eğitimi
+916;half;yarım
+917;empire;imparatorluk
+918;emperor;imparator
+919;imposing;görkemli, heybetli, etkileyici
+920;emotion;heyecan
+921;mate;yakın arkadaş
+922;body;beden
+923;bodyguard;muhafız, koruma
+924;only;bir tek
+925;second;saniye
+926;second;ikinci
+927;tooth;diş
+928;toothache;diş ağrısı
+929;toothbrush;diş fırçası
+930;toothpaste;diş macunu
+931;sometimes;bazen
+932;sunset;gün batımı
+933;tornado;kasırga
+934;vegetable;sebze
+935;tomb;mezar
+936;cemetery;mezarlık
+937;personal;kişiye özel
+938;petition;dilekçe, talep, rica
+939;admit;kabul etmek
+940;permit;izin vermek
+941;population;nüfus
+942;press;basın
+943;prison;hapisane
+944;prisoner;tutuklu
+945;insignificant;önemsiz
+946;lighter;çakmak
+947;madman;deli
+948;madhouse;tımarhane
+949;excited;heyecanlı
+950;median;orta
+951;medium;orta
+952;average;ortalama
+953;member;üye
+954;law;yasa
+955;law school;hukuk fakültesi
+956;lawful;yasal
+957;lawless;kanunsuz
+958;lawlessness;kanunsuzluk
+959;crime;suç
+960;leader;lider, rehber
+961;hostel;pansiyon, öğrenci yurdu
+962;hip;kalça
+963;possible;mümkün
+964;decision;karar
+965;include;içermek, kapsamak
+966;attitude;tavır, tutum, davranış
+967;common;ortak
+968;weight;ağırlık, yük
+969;balance;denge
+970;meet;tanışmak, buluşmak
+971;meeting;toplantı
+972;busy;meşgül
+973;available;uygun
+974;calculator;hesap makinesi
+975;discuss;tartışmak
+976;argue;tartışmak
+977;join;katılmak
+978;habit;alışkanlık
+979;dirt;kir
+980;clean;temiz
+981;clear;temizlikçi
+982;ship;gemi
+983;boat;kayık
+984;deep;derin
+985;distance;uzaklık, mesafe
+986;education;eğitim
+987;sibling;kardeş
+988;loser;ezik, mağlup, kaybeden
+989;amazing;inanılmaz, şaşırtıcı, hayret verici
+990;awesome;müthiş, dehşet verici
+991;text;metin, konu
+992;divorce;boşanma
+993;fiance;nişanlı
+994;widow;dul, dul kadın
+995;salary;maaş
+996;retired;emekli
+997;great;harika, mükemmel, büyük
+998;forever;ebediyen, daima
+999;last;son
+1000;subway;metro
