@@ -8126,7 +8126,7 @@ const ALL_WORDS_DATA = [
             "metro"
         ]
     }
-];
+]
 
 // Uygulama Durumu (State)
 let quizState = {
@@ -8372,3 +8372,4 @@ window.nextQuestion = nextQuestion;
 // Uygulama yüklendiğinde başlat
 
 document.addEventListener('DOMContentLoaded', initializeQuiz);
+
